@@ -15,12 +15,20 @@ sudo npm uninstall -g angular-cli @angular/cli
 npm cache clean --force
 sudo npm install -g @angular/cli
 
-Reactive Forms Concepts 
+**Reactive Forms Concepts**
+
 Creating a Form
+
 Syncing HTML and Form
+
 Adding Validation
+
 Getting Access to Controls
+
 Grouping Controls
+
 Using Error Codes
+
 Reacting to Status or Value Changes
+
 Setting and Patching
